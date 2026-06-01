@@ -8,20 +8,20 @@ Important model note: Xiaomi says the legacy `mimo-v2-pro` and `mimo-v2-omni` na
 
 ## Supported Tools
 
-Officially documented compatible tools, arranged to match the Xiaomi tool grid and work well as a Facebook or YouTube guide flow:
+Officially documented compatible tools:
 
-| Episode | Tool          | Connection Type        | Terminal Setup? | Why It Is In This Order                                  |
-| ------- | ------------- | ---------------------- | --------------- | -------------------------------------------------------- |
-| 1       | OpenCode      | OpenAI-compatible      | Yes             | Quick first demo in a terminal.                          |
-| 2       | OpenClaw      | OpenAI-compatible      | Yes             | Another coding agent with a simple command-line flow.    |
-| 3       | Claude Code   | Anthropic-compatible   | Yes             | Popular coding agent, but it uses a different API style. |
-| 4       | Hermes Agent  | OpenAI-compatible      | Yes             | Autonomous task agent for longer jobs.                   |
-| 5       | Kilo Code     | OpenAI-compatible      | Yes             | Good place to explain command-not-found fixes.           |
-| 6       | Cline         | OpenAI-compatible      | Yes             | Useful for VS Code users.                                |
-| 7       | Cherry Studio | OpenAI-compatible      | No              | Desktop app option for people who prefer a visual app.   |
-| 8       | Qwen Code     | OpenAI-compatible      | Yes             | Another coding CLI option.                               |
-| 9       | CodeBuddy     | OpenAI-compatible      | Yes             | Tencent Cloud AI-native IDE/CLI option.                  |
-| 10      | n8n           | OpenAI-compatible HTTP | Mostly          | Automation finale: use MiMo inside workflows.            |
+| Tool No. | Tool          | Connection Type        | Terminal Setup? |
+| -------- | ------------- | ---------------------- | --------------- |
+| 1        | OpenCode      | OpenAI-compatible      | Yes             |
+| 2        | OpenClaw      | OpenAI-compatible      | Yes             |
+| 3        | Claude Code   | Anthropic-compatible   | Yes             |
+| 4        | Hermes Agent  | OpenAI-compatible      | Yes             |
+| 5        | Kilo Code     | OpenAI-compatible      | Yes             |
+| 6        | Cline         | OpenAI-compatible      | Yes             |
+| 7        | Cherry Studio | OpenAI-compatible      | No              |
+| 8        | Qwen Code     | OpenAI-compatible      | Yes             |
+| 9        | CodeBuddy     | OpenAI-compatible      | Yes             |
+| 10       | n8n           | OpenAI-compatible HTTP | Mostly          |
 
 ## 1. Get Token Plan Credentials
 
